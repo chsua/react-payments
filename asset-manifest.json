@@ -1,13 +1,22 @@
 {
   "files": {
-    "main.css": "/react-payments/static/css/main.8896acc3.css",
-    "main.js": "/react-payments/static/js/main.f9126f58.js",
+    "main.css": "/react-payments/static/css/main.2bd7e868.css",
+    "main.js": "/react-payments/static/js/main.ff25f5eb.js",
+    "static/media/ShinhanCard.svg": "/react-payments/static/media/ShinhanCard.3a675f2f6d33588a1d0332811fcda4db.svg",
+    "static/media/BcCard.svg": "/react-payments/static/media/BcCard.d7df19671cd9b7752518b11e5cb53a91.svg",
+    "static/media/KakaoCard.svg": "/react-payments/static/media/KakaoCard.15d72e33d46e3ebb1af2870fd223ad6b.svg",
+    "static/media/HyundaiCard.svg": "/react-payments/static/media/HyundaiCard.69d535d1e89b43f102bc3c3f5efc7968.svg",
+    "static/media/LotteCard.svg": "/react-payments/static/media/LotteCard.7e0cb4cb83ef5d5d6c081dde6b3bf43e.svg",
+    "static/media/WooriCard.svg": "/react-payments/static/media/WooriCard.fde0bd84bff94141d1c01f30fd429e2d.svg",
+    "static/media/KbCard.svg": "/react-payments/static/media/KbCard.5720dde134399f3fec5e9506b60ad9f7.svg",
+    "static/media/HanaCard.svg": "/react-payments/static/media/HanaCard.f7b55514c22954563d7cb5c2ebbe4920.svg",
     "index.html": "/react-payments/index.html",
-    "main.8896acc3.css.map": "/react-payments/static/css/main.8896acc3.css.map",
-    "main.f9126f58.js.map": "/react-payments/static/js/main.f9126f58.js.map"
+    "static/media/lessThanSide.svg": "/react-payments/static/media/lessThanSide.b96755a599c51049b5abba25ab6e5cad.svg",
+    "main.2bd7e868.css.map": "/react-payments/static/css/main.2bd7e868.css.map",
+    "main.ff25f5eb.js.map": "/react-payments/static/js/main.ff25f5eb.js.map"
   },
   "entrypoints": [
-    "static/css/main.8896acc3.css",
-    "static/js/main.f9126f58.js"
+    "static/css/main.2bd7e868.css",
+    "static/js/main.ff25f5eb.js"
   ]
 }
