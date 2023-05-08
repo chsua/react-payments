@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-payments/static/css/main.2bd7e868.css",
-    "main.js": "/react-payments/static/js/main.ff25f5eb.js",
+    "main.css": "/react-payments/static/css/main.07e3845b.css",
+    "main.js": "/react-payments/static/js/main.2bd2bdaa.js",
     "static/media/ShinhanCard.svg": "/react-payments/static/media/ShinhanCard.3a675f2f6d33588a1d0332811fcda4db.svg",
     "static/media/BcCard.svg": "/react-payments/static/media/BcCard.d7df19671cd9b7752518b11e5cb53a91.svg",
     "static/media/KakaoCard.svg": "/react-payments/static/media/KakaoCard.15d72e33d46e3ebb1af2870fd223ad6b.svg",
@@ -12,11 +12,11 @@
     "static/media/HanaCard.svg": "/react-payments/static/media/HanaCard.f7b55514c22954563d7cb5c2ebbe4920.svg",
     "index.html": "/react-payments/index.html",
     "static/media/lessThanSide.svg": "/react-payments/static/media/lessThanSide.b96755a599c51049b5abba25ab6e5cad.svg",
-    "main.2bd7e868.css.map": "/react-payments/static/css/main.2bd7e868.css.map",
-    "main.ff25f5eb.js.map": "/react-payments/static/js/main.ff25f5eb.js.map"
+    "main.07e3845b.css.map": "/react-payments/static/css/main.07e3845b.css.map",
+    "main.2bd2bdaa.js.map": "/react-payments/static/js/main.2bd2bdaa.js.map"
   },
   "entrypoints": [
-    "static/css/main.2bd7e868.css",
-    "static/js/main.ff25f5eb.js"
+    "static/css/main.07e3845b.css",
+    "static/js/main.2bd2bdaa.js"
   ]
 }
